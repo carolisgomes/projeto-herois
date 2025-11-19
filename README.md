@@ -46,7 +46,7 @@ Boolean -> Variáveis lógicas, que armazenam o valor de ligado ou desligado (tr
 
 ---
 
-### Vetores e Matrizes
+### Vetores e Matrizes📝
 
 Vetores -> É uma estrutura de dados que armazena uma coleção de valores do mesmo tipo em uma única variável. É como um armário armazenando os valores.
 
